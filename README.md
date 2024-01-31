@@ -1,13 +1,11 @@
-<div style="text-align: center">
+
 <h1 style="text-align: center;">Hello there, i'm Andrew!😀🖖<h1/>
 
-<a style="color: orange; text-decoration: underline" href='https://andrew-s-personal-site.vercel.app/'>Visit my personal website💻<a/>
+<a target='_blank' href='https://andrew-s-personal-site.vercel.app/'>Visit my personal website💻<a/>
 
 <img src='https://assets.website-files.com/60b36baccb70892ffa4ca8d5/60b36baccb708993564caa82_blog_office2-1.gif'/>
 
-<h2 style='font-size: 30px'>Things i like😏👇<h2/>
-
-<div style='display: flex; gap: 20px; justify-content: center;'>
+<h2>Things i like😏👇<h2/>
 
 <img style="width: 60px" src='https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png'/>
 <img style="width: 60px" src='https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png'/>
@@ -20,6 +18,5 @@
 <img style="width: 60px" src='https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png'/>
 <img style="width: 60px" src='https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png'/>
 
-</div>
-</div>
+
 
